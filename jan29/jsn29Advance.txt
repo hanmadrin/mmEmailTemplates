@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Used Car Near You</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 5px;
+        }
+        #mmcEmailTemplate table{
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+        #mmcEmailTemplate .darkBackground{
+            background-color: #000000;
+        }
+        a:link, a:visited, a:hover, a:active{
+            text-decoration: none;
+        }
+        #mmcEmailTemplate .singleLineButton{
+            background-color: #000000;
+            color: #ffffff;
+            padding:15px;
+            border-radius: 30px;
+            text-decoration:none;
+            font-size:18px;
+            font-family:Arial, 'helvetica neue', helvetica, sans-serif;
+            font-weight:bold;
+            font-style:normal;
+            line-height:22px;
+            width:auto;
+            text-align:center;
+            padding:10px 20px 10px 20px;
+        }
+        @media only screen and (max-width: 620px) {
+            #mmcEmailTemplate .dynamicWidth{
+                width: 100% !important;
+            }
+            #mmcEmailTemplate .dynamicWidthImg{
+                width: 100% !important;
+            }
+            #mmcEmailTemplate .gridImgHolder{
+                width: 32% !important;
+            }
+            #mmcEmailTemplate .gridImg{
+                width: 100% !important;
+            }
+            #mmcEmailTemplate .gridSpacer{
+                width: 1.5% !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <center id="mmcEmailTemplate">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+            <tr>
+                <td align="center" valign="center">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr class="header">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top">
+                                            <a href="tel:5706595406" target="_blank">
+                                                <img align="middle" src="https://ci5.googleusercontent.com/proxy/LOUs4crxFJbMsU8IlgHuVWNS7yl_z2ysy7pLwKm5z12dqCWmx_8wdDlzCupXRImbBMHPl4xNDA-9I53n9xNgAMeYkNcIKU-9nLJ6tR7qHeYfDkwJQ1ym2l0bf6Exy1c7df36knRU2URq_lNkYDpHIGFQSnQagX036w8w_5k468rZEmtEWXo3LfRTTm66QbMS1n0x-02tKRRIzlrzh1QNKvZOHf1Kvdq1EztYRS9esNphCaALZ01K-Z5rjugL_w=s0-d-e1-ft#https://assets.orbee.co/account_files/674afad3d781aec1d5c7fb834b4f39713c64f01b704590eda0daabe8a688f7d9eb48fd3b89d6c517dc2edb4223cadd60617e2a011e0d72171ec643026c0f6b35.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="hero">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px;">
+                                    <tr>
+                                        <td class="img" valign="top">
+                                            <a href="https://www.matthewsmotorcompany.com/used-inventory/index.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img class="dynamicWidth" align="middle" src="https://assets.orbee.co/account_files/73a15658baf0e849e04979f879b82031174cd45ef03a551eab958f589f2d67f478b4eff658b1a8ddb0d549188e059517a7b7b7146a2a0d5a6480f40822793615.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="hero">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px;background-color: black;">
+                                    <tr>
+                                        <td align="center" valign="top" width="33.33%" id="m_-5425561957116707848esd-menu-id-0" style="Margin:0;padding-left:5px;padding-right:5px;padding-top:10px;padding-bottom:10px;border:0">
+                                            <a href="https://www.matthewsmotorcompany.com/all-inventory/index.htm?bodyStyle=SUV&defaultRange=5&utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" style="text-decoration:none;display:block;font-family:lato,'helvetica neue',helvetica,arial,sans-serif;color:#ffffff;font-size:16px;font-weight:normal" target="_blank">Shop SUVs</a>
+                                        </td>
+                                        <td align="center" valign="top" width="33.33%" id="m_-5425561957116707848esd-menu-id-2" style="Margin:0;padding-left:5px;padding-right:5px;padding-top:10px;padding-bottom:10px;border:0;border-left:1px solid #ffffff">
+                                            <a href="https://www.matthewsmotorcompany.com/all-inventory/index.htm?defaultRange=5&bodyStyle=Sedan&utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" style="text-decoration:none;display:block;font-family:lato,'helvetica neue',helvetica,arial,sans-serif;color:#ffffff;font-size:16px;font-weight:normal" target="_blank">Shop Cars</a>
+                                        </td>
+                                        <td align="center" valign="top" width="33.33%" id="m_-5425561957116707848esd-menu-id-2" style="Margin:0;padding-left:5px;padding-right:5px;padding-top:10px;padding-bottom:10px;border:0;border-left:1px solid #ffffff">
+                                            <a href="https://www.matthewsmotorcompany.com/trucks.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" style="text-decoration:none;display:block;font-family:lato,'helvetica neue',helvetica,arial,sans-serif;color:#ffffff;font-size:16px;font-weight:normal" target="_blank">Shop Trucks</a>
+                                        </td>
+                                        </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="shopSuv">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/used/Chevrolet/2021-Chevrolet-Equinox-26e4a1950a0e0a92527f8edcd9596392.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/e5c7a0bfd678b196fb4147321f09725cbb22af348815b237e3baf55fe0c3fb86a452733b4a516621e9dcc93d0a2e26d36d80477ae130bac59b1855a7e08d735e.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="shopSuvButton">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/used-inventory/index.htm?bodyStyle=SUV&utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <div class="singleLineButton">SHOP SUVS</div>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="shopCars">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/used/Nissan/2019-Nissan-Altima-4ab6bd6b0a0e0a940a1dcbad8ad88140.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/b533ba0851a6b08ace45320f7a07424db854fe0267b06c796750562c80e0aaaa84acc61b5e9980a053ef3f97eb5b62901eff602dcbd2ec3e79d60578047df729.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="shopCarsButton">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/used-inventory/index.htm?bodyStyle=Sedan&bodyStyle=Hatchback&utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <div class="singleLineButton">SHOP CARS</div>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="shopTrucks">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/used/Ford/2021-Ford-F-150-2c3ae3020a0e0a9a6585850e3da482af.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/e316c26434a2870ed2437ed4556235b7d3be2c08eee35c68bc7969f134adcbe07dc940c1c38a6623cb75d756366e3aba4e38a21e1f6099c5f08787ed98653fa7.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="shopTrucksButton">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/trucks.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <div class="singleLineButton">SHOP TRUCKS</div>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="location">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/dealership/directions.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/35e25faf3137ba7e990a63e7a13b25d0e7ffc053c057224aa7304d2894cc2065b4a500e3e7bd3a917100ecd512358d582e038d6c65806998f1070944393640b3.jpg" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+
+                        <tr class="financing">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/co/prequalification.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/bec5191dd6605a9059c2db0f8a567dd553b8ca2fa7b5ad5d505581a2c819e68617dafefa255b774168d22beada65d3a402ca04213b6eb2338fc3443c8d6588c9.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="usImages">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/2289595c233b43c85c27be5dca546f825f64abdd96783aa94f6d77f353bdebcbc68e4fca8522baee09f6a5d992cf6af0dea9008e3cdcb1a14f61d95d93de59a5.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="testimonials">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="https://www.google.com/search?q=Matthews+Motor+Company&rlz=1C1CHBF_enUS864US864&oq=matthews+motor+company&gs_lcrp=EgZjaHJvbWUqDwgAEEUYOxjjAhjJAxiABDIPCAAQRRg7GOMCGMkDGIAEMhMIARAuGK8BGMcBGJIDGMkDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBBFGEAyCAgFEAAYFhgeMgYIBhBFGD0yBggHEEUYPNIBCDQxNzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/1b1a0f9ade656c49595b42109a64ef8b33410de6eb3e9b79bd00ad90e404d86da2f82caee7c82a14f6093cde6aeb764bb53d8e3de0aabc3a11f6ab5317746f6f.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="serviceHeader">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="img" valign="top" align="center">
+                                            <a href="#">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/578c7177dea32b874a4041e8550b46552865ca09d4a3f4ab5629afa74e6e3e06e55ffc5b2285f71a9ecb898d385001dfdcfb47ee44baa2f00c66b36975f0a94b.png" class="dynamicWidthImg" style="width:600px;">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="services">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px">
+                                    <tr>
+                                        <td class="gridImgHolder" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/service-center.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/abc3aa31d566781d9cfc51c7bf430dc5b9a87d372667143775144811b816faf7f06e68e8807bbad7971555b7354c6ba0270a0df43870cb63dd07c4a3445e49a7.png" class="gridImg" style="width: 190px">
+                                            </a>
+                                        </td>
+                                        <td class="gridSpacer" style="width:15px;"></td>
+                                        <td class="gridImgHolder" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/car-rentals.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/c2e249013e11d15d36126e31155ba3eb950f330ac871de5943dd1d62746b1b8bf1fe1b54f03ca7a12784c65704473f155af66aa04e33c394697313a0d638efda.png" class="gridImg" style="width: 190px">
+                                            </a>
+                                        </td>
+                                        <td class="gridSpacer" style="width:15px;"></td>
+                                        <td class="gridImgHolder" valign="top" align="center">
+                                            <a href="https://www.matthewsmotorcompany.com/bodyshop.htm?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance" target="_blank">
+                                                <img align="middle" src="https://assets.orbee.co/account_files/b1691288ba120ac41a156bdf2bbd87aa4de82fb8ed59cb340b6139daf004d64daa6454b794418d50dd070df2c48bd0f3521eab8822e5f93010ef83c5ff8f2d72.png" class="gridImg" style="width: 190px">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr class="serviceHeader">
+                            <td align="center" valign="top">
+                                <table class="dynamicWidth" align="center" border="0" cellpadding="0" cellspacing="0" style="width:600px;background-color: black;">
+                                    <tr>
+                                        <td align="center" style="padding:0;Margin:0">
+                                            <p style="Margin:0;font-family:tahoma,verdana,segoe,sans-serif;line-height:18px;color:#ffffff;font-size:12px">
+                                                Copyright © 2023 Matthews Motor Company. All Rights Reserved.
+                                            </p>
+                                            <p style="Margin:0;font-family:tahoma,verdana,segoe,sans-serif;line-height:18px;color:#ffffff;font-size:12px">
+                                                <a href="mailto:sales@matthewsmotorco.com">sales@matthewsmotorco.com</a>
+                                            </p>
+                                            <p style="Margin:0;font-family:tahoma,verdana,segoe,sans-serif;line-height:18px;color:#ffffff;font-size:12px;margin-bottom: 10px;">
+                                                <a href="https://www.google.com/maps/dir//Matthews+Motor+Company/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89cfd137b6a1b5e9:0xe2f3ddaebb96d7c7?utm_medium=email&utm_source=product_advance&utm_campaign=January+29+Clearance>1856 North Williamson Road Covington, Pennsylvania 16917</a>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
